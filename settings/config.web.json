@@ -10,7 +10,7 @@
     "clientSecret": ""
   },
   "database": {
-    "uri": "mongodb://localhost:27017/rss",
+    "uri": "settings",
     "connection": {},
     "redis": "redis://localhost"
   },
