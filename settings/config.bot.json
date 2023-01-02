@@ -34,7 +34,7 @@
     "deliveryRecordsExpire": 2
   },
   "feeds": {
-    "refreshRateMinutes": 10,
+    "refreshRateMinutes": 5,
     "articleDequeueRate": 1,
     "articleRateLimit": 0,
     "articleDailyChannelLimit": 0,
